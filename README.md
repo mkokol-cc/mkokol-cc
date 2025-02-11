@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hola, bienvenido a mi perfil de GitHub!
 
-<!--
-**mkokol-cc/mkokol-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería en Sistemas y desarrollador de software a medida. Me especializo en la creación de soluciones utilizando Spring Boot y Angular, aunque siempre estoy abierto a explorar nuevas tecnologías.
 
-Here are some ideas to get you started:
+🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desarrollo aplicaciones web con Spring Boot y Angular
+
+📈 Tengo experiencia básica trabajando con Scrum
+
+🛠️ Me gusta resolver problemas y optimizar procesos con software
+
+🌱 Siempre estoy aprendiendo y mejorando mis habilidades
+
+📌 Tecnologías y Herramientas
+
+Backend: Spring Boot, Java
+
+Frontend: Angular, TypeScript
+
+Bases de datos: MySQL, PostgreSQL
+
+Otros: Git, Docker, REST APIs
